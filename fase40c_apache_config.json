@@ -1,0 +1,10 @@
+{
+    "version": "8.5.11",
+    "sapi": "apache2handler",
+    "display_errors": "1",
+    "memory_limit": "16M",
+    "post_max_size": "32M",
+    "upload_progress": "1",
+    "strict_mode": "0",
+    "cookies": "1"
+}
