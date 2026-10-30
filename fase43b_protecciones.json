@@ -1,0 +1,12 @@
+{
+    "php_version": "8.5.11",
+    "sapi": "apache2handler",
+    "display_errors": "1",
+    "memory_limit": "16M",
+    "post_max_size": "32M",
+    "upload_max_filesize": "32M",
+    "session.upload_progress.enabled": "1",
+    "session.use_strict_mode": "0",
+    "disable_functions": "",
+    "open_basedir": ""
+}
