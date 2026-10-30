@@ -1,0 +1,8 @@
+id,hipotesis,evidencia_actual,estado
+H01,POST convencional permitido,HTTP 200 fase45B,confirmado
+H02,POST multipart ordinario permitido,HTTP 200 fase46B,confirmado
+H03,Filtracion Set-Cookie remota posible,Sin evidencia,no_verificado
+H04,Arquitectura remota compatible,Sin evidencia,no_verificado
+H05,Offsets remotos compatibles,Sin evidencia,no_verificado
+H06,RCE remota posible,Sin evidencia,no_verificado
+H07,Recuperacion de flag,Sin evidencia,no_verificado
