@@ -1,0 +1,15 @@
+{
+  "phase": "56",
+  "source": "fase48a",
+  "http_status": 403,
+  "cf_ray": "a5285625e8891750-IAD",
+  "block_markers": {
+    "Attention Required": true,
+    "Sorry, you have been blocked": true,
+    "Cloudflare Ray ID": true
+  },
+  "classification": "blocked",
+  "rce_confirmed": false,
+  "flag_recovered": false,
+  "classification_basis": "HTTP 403 and Cloudflare block page"
+}
