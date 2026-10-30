@@ -1,0 +1,15 @@
+Cloudflare PHP2Shell — Fase 49
+
+Cliente: Python http.client
+Transporte: HTTPS/TLS
+Metodo: POST
+Endpoint: /php/index.php
+HTTP: 200
+Servidor: cloudflare
+Cuerpo: 0 bytes
+CF-RAY: a5285ca6cb0a7e50-IAD
+X-Attempt-ID: b2fc0ee1-7270-44b2-b687-5c2a903ec408
+
+Conclusion:
+Transporte HTTPS funcional desde Python.
+No se demostro RCE ni evasion WAF.
