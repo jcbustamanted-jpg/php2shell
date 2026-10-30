@@ -1,0 +1,14 @@
+Cloudflare PHP2Shell CTF — Fase 45B
+Fecha: 2026-10-30
+Endpoint: https://php-rce.cloudflare.app/php/index.php
+Metodo: POST
+Protocolo: HTTP/2
+HTTP: 200
+Tiempo: 1.287194 segundos
+Cuerpo: 0 bytes
+Servidor: cloudflare
+CF-RAY: a5283c551f871750-IAD
+
+Conclusion:
+Conectividad POST confirmada.
+Sin evidencia de RCE ni de evasion WAF.
