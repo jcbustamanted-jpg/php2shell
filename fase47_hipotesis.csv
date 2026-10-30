@@ -6,3 +6,4 @@ H04,Arquitectura remota compatible,Sin evidencia,no_verificado
 H05,Offsets remotos compatibles,Sin evidencia,no_verificado
 H06,RCE remota posible,Sin evidencia,no_verificado
 H07,Recuperacion de flag,Sin evidencia,no_verificado
+H08,Solicitud PHP2Shell relacionada con upload progress bloqueada,HTTP 403 fase48A CF-RAY a5285625e8891750-IAD,bloqueo_observado
