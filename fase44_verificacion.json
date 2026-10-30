@@ -1,0 +1,14 @@
+{
+  "fase": "44F",
+  "entorno": "php2shell-hardened",
+  "php_version": "8.5.11",
+  "sapi": "apache2handler",
+  "display_errors": false,
+  "display_startup_errors": false,
+  "session_upload_progress_enabled": false,
+  "session_use_strict_mode": true,
+  "memory_limit": "16M",
+  "network_mode": "none",
+  "container_status": "running",
+  "exploit_ejecutado": false
+}
